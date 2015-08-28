@@ -14,3 +14,12 @@ If there are many files in the staging area, then it shows that many changes hav
 4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 As explained in the video, when you want to have a working prototype but also do some exploration by changing the code significantly.
+
+5) How do the diagrams help you visualize the branch structure?
+
+It helps us keep track of the overall picture.
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+By merging two branches, we have added the code of those two branches together effectively thus adding a new feature to our code.
+The diagram helps us understand the branches which we are merging together.

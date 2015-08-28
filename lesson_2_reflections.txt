@@ -6,3 +6,7 @@ An empty repository is created when you initialize. A repository is necessary fo
 
 It provides a temporary space which makes it possible to see which files are going to be included in the commit.
 The working directory contains all files which might not be a part of the commit.
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+
+If there are many files in the staging area, then it shows that many changes have been made.
